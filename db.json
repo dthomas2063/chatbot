@@ -5,9 +5,9 @@
 		"adv":532,
 		"gqv":2143,
 		"orders": [
-			{id:3,date:"3/20/2018",status:"printed",tracking:"1234lh3214ljhb1234lkj"},
-			{id:2,date:"2/20/2018",status:"shipped",tracking:"1234lh3214ljhb1234lkk"},
-			{id:1,date:"1/20/2018",status:"shipped",tracking:"1234lh3214ljhb1234lkh"}
+			{"id":3,"date":"3/20/2018","status":"printed","tracking":"1234lh3214ljhb1234lkj"},
+			{"id":2,"date":"2/20/2018","status":"shipped","tracking":"1234lh3214ljhb1234lkk"},
+			{"id":1,"date":"1/20/2018","status":"shipped","tracking":"1234lh3214ljhb1234lkh"}
 			]
 		}
 	]
