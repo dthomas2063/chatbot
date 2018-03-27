@@ -34,11 +34,9 @@
 	"faq":[
 		{
 			"id":"pqv",
-			"name":"PQV",
 			"description":"PERSONAL QUALIFYING VOLUME (PQV): Qualifying Volume that is generated through a Brand Partner’s personal product purchases. It also includes volume from product purchases made directly from the Company by a Brand Partner’s retail and Preferred Customers."
 		},{
-			"id":2,
-			"name":"GQV",
+			"id":"gqv",
 			"description":"GROUP QUALIFYING VOLUME (GQV): The total Qualifying Volume of a specific group of Brand Partners. Includes Brand Partners’ PQV (max. 2,000 PQV from personal purchases counted toward GQV)."
 		}
 	]
